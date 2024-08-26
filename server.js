@@ -10,7 +10,7 @@ dotenv.config()
 
 
 const app = express()
-const PORT = 1000 
+const PORT = 8080 
 
 
 app.use(express.json())
